@@ -1,26 +1,26 @@
 export const testimonial = [
   {
     quote:
-      "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!",
-    author: "Sarah Chen",
+      "The Sensai website enables me to prepare for interviews more efficiently.",
+    author: "Priyadharshini.K",
     image: "https://randomuser.me/api/portraits/women/75.jpg",
-    role: "Software Engineer",
-    company: "Tech Giant Co.",
+    role: "Analyst Intern",
+    company: "CTS",
   },
   {
     quote:
-      "The industry insights helped me pivot my career successfully. The salary data was spot-on!",
-    author: "Michael Rodriguez",
+      "The Resume Builder allows me to quickly create an ATS-friendly resume, especially for last-minute interviews.",
+    author: "Darshan.S",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
-    role: "Product Manager",
-    company: "StartUp Inc.",
+    role: "Student",
+    company: "SNSCE",
   },
   {
     quote:
-      "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!",
-    author: "Priya Patel",
+      "The cover letter option is excellent as it highlights its importance and simplifies the creation process.",
+    author: "Navadharshini.M.S",
     image: "https://randomuser.me/api/portraits/women/74.jpg",
-    role: "Marketing Director",
-    company: "Global Corp",
+    role: "Associate Software Intern",
+    company: "Accenture",
   },
 ];
